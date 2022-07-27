@@ -17,4 +17,12 @@ This will download the library test image and mask from https://github.com/Dmitr
 |:------------:|:-------:|
 |<img width="500" alt="Masked library" src="https://user-images.githubusercontent.com/18725165/181269409-ec77715c-81e4-4026-8875-a8911cb868ac.png">|<img width="500" alt="Inpainted library" src="https://user-images.githubusercontent.com/18725165/181269420-ee57895d-fc7c-4861-b115-b446fb26a3d9.png">|
 
-
+# Citation
+```
+@article{UlyanovVL17,
+    author    = {Ulyanov, Dmitry and Vedaldi, Andrea and Lempitsky, Victor},
+    title     = {Deep Image Prior},
+    journal   = {arXiv:1711.10925},
+    year      = {2017}
+}
+```
